@@ -1,0 +1,107 @@
+/*
+	2_4.html �� css �ۼ�
+*/
+*{
+	margin: 0 auto;
+	padding: 0 ;
+	text-align: center;
+}
+div{
+	width: 1100px;
+
+}
+
+
+
+header{
+	background-color: coral;
+	width: 100%;
+	height: 100px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+}
+
+header > h1{
+	padding-bottom: 15px;
+}
+header > nav{
+	background-color: green;
+	
+
+}
+main > h1{
+	height: 70px;
+	line-height: 70px;
+}
+main{
+	background-color: gray;
+	
+	
+}
+
+#left{
+	background-color: aqua;
+	float: left;
+	width: 25%;
+	height: 400px;
+	
+}
+
+#left > h2{
+	margin-top: 20px;
+}
+
+#left > nav{
+	background-color: green;
+	width: 95%;
+	margin: 0 auto;
+	
+}
+
+#left > nav >h2{
+	margin-top: 20px;
+}
+
+section{
+	background-color: white;
+	float: left;
+	width: 50%;
+	
+	
+}
+
+section > h2{
+	height: 70px;
+	line-height: 70px;
+}
+
+section > article{
+	background-color: coral;
+	height: 300px;
+	width: 540px;
+	margin-left: 5px;
+	margin-right: 5px;
+	
+}
+
+#right{
+	background-color: aqua;
+	float: left;
+	width: 25%;
+	height: 400px;
+	
+}
+
+#right > h2{
+	margin-top: 20px;
+}
+
+footer{
+	background-color: bisque;
+	float: left;
+	width: 100%;
+	height: 100px;
+	
+}
+
